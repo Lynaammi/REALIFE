@@ -1,6 +1,6 @@
 body
 {
-	background-image:url(css/PAGEWEB.jpg);
-	background : href="css/PAGEWEB.jpg";
+	background-image: url(css/PAGEWEB.jpg);
+	background : url(css/PAGEWEB.jpg);
 	font-family: Arial, Verdana;
 }
